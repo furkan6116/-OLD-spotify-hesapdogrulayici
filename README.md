@@ -1,4 +1,4 @@
-#Spotify Hesap Doğrulayıcı
+# Spotify Hesap Doğrulayıcı
 
 ![](https://raw.githubusercontent.com/furkan6116/spotifyhesapdogrulayici/master/Spotify%20Cracker/logo.png)
 
